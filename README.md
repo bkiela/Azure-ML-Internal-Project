@@ -3,7 +3,7 @@
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/198784222@N05/53138533225/in/dateposted-public/" title="Group 29 (2)"><img src="https://live.staticflickr.com/65535/53138533225_1abf5983d0_h.jpg" width="1600" height="400" alt="Group 29 (2)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## The internal project
-The goal of this project is to prepare for the work with the Baramundi. We want to make the ML pipeline similar to theirs. 
+The goal of this project is to prepare a simple azure ml project to show to client. We want to make the ML pipeline similar to theirs. 
 Develop it locally and then move it to cloud computing platform - Azure Machine Learning.
 
 ### Structure
@@ -104,3 +104,4 @@ Plot that for a few chosen countries shows the number of confirmed cases over ti
 
 ### Plots - Result visualization
 This should display for a certain day the clusters of countries that are most similar to one another
+
